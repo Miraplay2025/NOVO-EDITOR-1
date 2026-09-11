@@ -1,0 +1,6 @@
+{
+  "name": "Editor Automático",
+  "description": "Aplicativo Android nativo de edição automática de vídeos com renderização on-device, transições, câmera dinâmica e legendas sincronizadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

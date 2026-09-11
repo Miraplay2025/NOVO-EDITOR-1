@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Editor Automático</string>
+    <string name="app_tagline">Edição Inteligente On-Device</string>
+    <string name="new_project">Criar Novo Projeto</string>
+    <string name="my_projects">Meus Projetos</string>
+    <string name="no_projects_title">Nenhum projeto ainda</string>
+    <string name="no_projects_desc">Comece importando suas fotos, vídeos e trilha sonora favorita.</string>
+    <string name="delete_project_confirm">Tem certeza de que deseja excluir este projeto?</string>
+    <string name="delete">Excluir</string>
+    <string name="cancel">Cancelar</string>
+    <string name="open_project">Abrir Projeto</string>
+    
+    <!-- Media Picker -->
+    <string name="step_import_title">Seleção de Mídias</string>
+    <string name="btn_load_media">Carregar Mídias (Imagens e Vídeos)</string>
+    <string name="btn_load_audio">Carregar Áudio</string>
+    <string name="warning_media_audio_required">O carregamento de mídias e de áudio é estritamente OBRIGATÓRIO para avançar.</string>
+    <string name="btn_advance_editor">Avançar para o Editor</string>
+    <string name="aspect_ratio_title">Proporção de Aspecto</string>
+    
+    <!-- Editor Workspace -->
+    <string name="btn_start_editing">INICIAR EDIÇÃO</string>
+    <string name="btn_auto_edit">EDITAR AUTOMATICAMENTE</string>
+    <string name="help_how_to_configure">NÃO SABE COMO CONFIGURAR?</string>
+    <string name="camera_movements_title">Movimentos de Câmera</string>
+    <string name="transitions_title">Transições Visuais Suaves</string>
+    <string name="change_audio">Alterar Áudio</string>
+    <string name="change_media">Alterar Mídia</string>
+    <string name="delete_media">Excluir Mídia</string>
+    
+    <!-- Export & Rendering -->
+    <string name="export_quality_title">Configurações de Exportação</string>
+    <string name="resolution">Resolução</string>
+    <string name="framerate">Taxa de Quadros (FPS)</string>
+    <string name="bitrate">Taxa de Bits</string>
+    <string name="auto_subtitles">ATIVAR LEGENDAS AUTOMÁTICAS</string>
+    <string name="words_per_screen">Palavras por vez na tela</string>
+    <string name="rendering_title">Processamento em Segundo Plano</string>
+    <string name="success_video_saved">Vídeo compilado e salvo com sucesso na Galeria!</string>
+    <string name="back">Voltar</string>
+</resources>
